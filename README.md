@@ -79,6 +79,6 @@ The simulation includes a graphical visualization that:
 - Cellular automata
 - Probabilistic modeling
 - Simulation and data analysis
-- Python\
+- Python
 
 ---
