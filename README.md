@@ -64,7 +64,7 @@ The simulation was developed as part of an academic exercise exploring how local
 ## Goal of the Experiment
 The main objective is to find combinations of parameters that lead to **wave-like behavior** in the infection curve —  
 specifically, **at least three distinct cycles** of rising and falling infection levels during the simulation.
-\
+
 ---
 
 ## Visualization
